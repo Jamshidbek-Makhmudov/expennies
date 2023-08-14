@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bf5b80b-ec33-4140-9136-284d8bb08306" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.Readme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
@@ -191,7 +193,7 @@
       <workItem from="1691851364665" duration="610000" />
       <workItem from="1691910764240" duration="3462000" />
       <workItem from="1691914480637" duration="2603000" />
-      <workItem from="1691991089368" duration="1039000" />
+      <workItem from="1691991089368" duration="1371000" />
     </task>
     <servers />
   </component>
